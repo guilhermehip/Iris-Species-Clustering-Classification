@@ -5,6 +5,6 @@ This is my own version of the known exercise of Iris Species Classification. I'v
 
 ![Screenshot](confussionMatrix.png)
 
-### **Dendrogram that shows the accuracy of the ML algorithm** ###
+### **Dendrogram that shows the cluster formation of the hierarquic algorithm** ###
 
 ![Screenshot](Dendrogram.png)
